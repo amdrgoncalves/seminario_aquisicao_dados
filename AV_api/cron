@@ -1,0 +1,2 @@
+* * * * * /home/alexandre/seminario_python/env/bin/python /home/alexandre/seminario_python/AV_api/AV_api.py >> /home/alexandre/seminario_python/
+AV_api/AV_api.log 2>&1

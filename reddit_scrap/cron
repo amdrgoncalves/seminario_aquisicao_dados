@@ -1,0 +1,2 @@
+* * * * * /home/alexandre/seminario_python/env/bin/python /home/alexandre/seminario_python/reddit_scrap/reddit_scrap.py >> /home/alexandre/seminario_python/
+reddit_scrap/reddit_scrap.log 2>&1
